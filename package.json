@@ -1,0 +1,13 @@
+{
+  "name": "Portfolio-Lauren",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "license": "MIT",
+  "homepage": "http://laurenfwinter.github.io/portfolio",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
