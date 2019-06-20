@@ -8,79 +8,79 @@ const Aboutme = () => {
         On the course, I have enjoyed being a team player, interacting with different people, collaborating our ideas and has made me look forward to developing my technical skills. I would like to continue to work in a team, where I can learn and develop as an individual.</p>
       <div className="columnskills">
         <figure className="image is-128x128">
-          <img src="images/html.svg" />
+          <img src="images/skills/html.svg" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/css.svg" />
+          <img src="images/skills/css.svg" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/sass.svg" />
+          <img src="images/skills/sass.svg" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/bulma.png" />
+          <img src="images/skills/bulma.png" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/js.svg" />
+          <img src="images/skills/js.svg" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/react.png" />
-        </figure>
-      </div>
-      <div className="columnskills">
-        <figure className="image is-128x128">
-          <img src="images/mongo.png" />
-        </figure>
-        <figure className="image is-128x128">
-          <img src="images/expressjs.png" />
-        </figure>
-        <figure className="image is-128x128">
-          <img src="images/node.png" />
-        </figure>
-        <figure className="image is-128x128">
-          <img src="images/json-logo.png" />
-        </figure>
-        <figure className="image is-128x128">
-          <img src="images/npm.png" />
-        </figure>
-        <figure className="image is-128x128">
-          <img src="images/yarn.png" />
+          <img src="images/skills/react.png" />
         </figure>
       </div>
       <div className="columnskills">
         <figure className="image is-128x128">
-          <img src="images/git.png" />
+          <img src="images/skills/mongo.png" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/github.svg" />
+          <img src="images/skills/expressjs.png" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/heroku.png" />
+          <img src="images/skills/node.png" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/insomnia.svg" />
+          <img src="images/skills/json-logo.png" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/trello.png" />
+          <img src="images/skills/npm.png" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/atom.svg" />
+          <img src="images/skills/yarn.png" />
         </figure>
       </div>
       <div className="columnskills">
         <figure className="image is-128x128">
-          <img src="images/python.png" />
+          <img src="images/skills/git.png" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/postgresql.png" />
+          <img src="images/skills/github.svg" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/mysql.png" />
+          <img src="images/skills/heroku.png" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/restapi.png" />
+          <img src="images/skills/insomnia.png" />
         </figure>
         <figure className="image is-128x128">
-          <img src="images/webpack.png" />
+          <img src="images/skills/trello.png" />
+        </figure>
+        <figure className="image is-128x128">
+          <img src="images/skills/atom.svg" />
+        </figure>
+      </div>
+      <div className="columnskills">
+        <figure className="image is-128x128">
+          <img src="images/skills/python.png" />
+        </figure>
+        <figure className="image is-128x128">
+          <img src="images/skills/postgresql.png" />
+        </figure>
+        <figure className="image is-128x128">
+          <img src="images/skills/mysql.png" />
+        </figure>
+        <figure className="image is-128x128">
+          <img src="images/skills/restapi.png" />
+        </figure>
+        <figure className="image is-128x128">
+          <img src="images/skills/webpack.png" />
         </figure>
       </div>
     </div>
