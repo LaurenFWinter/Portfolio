@@ -6,6 +6,9 @@ const Aboutme = () => {
       <h2>About Me</h2>
       <p>Before joining General Assembly’s Software Engineering Immersive Course, I was self-employed and running my own business. I designed and built my own website with Yell.com, using template designs, but this sparked an interest in me to take things further and has led me to independently start looking at creating websites.
         On the course, I have enjoyed being a team player, interacting with different people, collaborating our ideas and has made me look forward to developing my technical skills. I would like to continue to work in a team, where I can learn and develop as an individual.</p>
+        <div className="imageskill" style={{ backgroundImage: 'url(images/skills/html.svg)' }}>
+
+            </div>
       <div className="columnskills">
         <figure className="image is-128x128">
           <img src="images/skills/html.svg" />
