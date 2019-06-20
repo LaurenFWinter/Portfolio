@@ -1,11 +1,22 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-class App extends React.Component {
-  render() {
-    return (
-      <h1>Hello World</h1>
+
+import 'bulma'
+import './style.scss'
+
+import Hero from './Hero'
+
+class App extends React.Component{
+  render(){
+    return(
+      <main>
+        <div className="container">
+          <Hero />
+        </div>
+      </main>
     )
   }
+
 }
 
 ReactDOM.render(
